@@ -1,0 +1,73 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 07 18:06:32 EET 2024","Thu Mar 07 18:06:34 EET 2024","2377","Smoke Layout Tests Run","Edge - Iphone 14 Pro Max","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:30 EET 2024","Thu Mar 07 18:06:30 EET 2024","79","Smoke Layout Tests Run","Edge - Iphone 14 Pro Max","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:20 EET 2024","Thu Mar 07 18:06:20 EET 2024","165","Smoke Layout Tests Run","Firefox - Samsung Galaxy S8+","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:26 EET 2024","Thu Mar 07 18:06:26 EET 2024","42","Smoke Layout Tests Run","Chrome - Samsung Galaxy S8+","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:26 EET 2024","Thu Mar 07 18:06:27 EET 2024","80","Smoke Layout Tests Run","Chrome - Pixel 7","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:31 EET 2024","Thu Mar 07 18:06:31 EET 2024","75","Smoke Layout Tests Run","Edge - Iphone 12 Pro","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:22 EET 2024","Thu Mar 07 18:06:25 EET 2024","2540","Smoke Layout Tests Run","Firefox - Iphone 12 Pro","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:26 EET 2024","Thu Mar 07 18:06:26 EET 2024","72","Smoke Layout Tests Run","Chrome - Iphone 12 Pro","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:20 EET 2024","Thu Mar 07 18:06:20 EET 2024","165","Smoke Layout Tests Run","Firefox - Pixel 7","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:25 EET 2024","Thu Mar 07 18:06:25 EET 2024","77","Smoke Layout Tests Run","Chrome - Iphone 14 Pro Max","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:31 EET 2024","Thu Mar 07 18:06:31 EET 2024","71","Smoke Layout Tests Run","Edge - Pixel 7","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:31 EET 2024","Thu Mar 07 18:06:31 EET 2024","41","Smoke Layout Tests Run","Edge - Samsung Galaxy S8+","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:27 EET 2024","Thu Mar 07 18:06:30 EET 2024","2347","Smoke Layout Tests Run","Chrome - Samsung Galaxy S8+","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:28 EET 2024","Thu Mar 07 18:06:30 EET 2024","2359","Smoke Layout Tests Run","Chrome - Pixel 7","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:32 EET 2024","Thu Mar 07 18:06:35 EET 2024","2389","Smoke Layout Tests Run","Edge - Samsung Galaxy S8+","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:20 EET 2024","Thu Mar 07 18:06:20 EET 2024","165","Smoke Layout Tests Run","Firefox - Iphone 14 Pro Max","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:32 EET 2024","Thu Mar 07 18:06:34 EET 2024","2402","Smoke Layout Tests Run","Edge - Iphone 12 Pro","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:22 EET 2024","Thu Mar 07 18:06:24 EET 2024","2538","Smoke Layout Tests Run","Firefox - Iphone 14 Pro Max","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:27 EET 2024","Thu Mar 07 18:06:29 EET 2024","2359","Smoke Layout Tests Run","Chrome - Iphone 14 Pro Max","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:21 EET 2024","Thu Mar 07 18:06:24 EET 2024","2913","Smoke Layout Tests Run","Firefox - Samsung Galaxy S8+","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:27 EET 2024","Thu Mar 07 18:06:30 EET 2024","2372","Smoke Layout Tests Run","Chrome - Iphone 12 Pro","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:22 EET 2024","Thu Mar 07 18:06:25 EET 2024","2530","Smoke Layout Tests Run","Firefox - Pixel 7","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:33 EET 2024","Thu Mar 07 18:06:35 EET 2024","2357","Smoke Layout Tests Run","Edge - Pixel 7","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","com.google.tests.N_0002_CheckLayoutRepositoriesProfilePageTest","checkLayoutRepositoriesProfilePage","Check Layout Repositories Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"
+"passed","Thu Mar 07 18:06:20 EET 2024","Thu Mar 07 18:06:20 EET 2024","165","Smoke Layout Tests Run","Firefox - Iphone 12 Pro","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","com.google.tests.N_0001_CheckLayoutOverviewProfilePageTest","checkLayoutOverviewProfilePage","Check Layout Overview Profile Page","This test attempts to check page layout. Fails if any error happens.
+
+If the expected screen is absent we save the current as an expected screenshot to 'expectedScreen' folder"

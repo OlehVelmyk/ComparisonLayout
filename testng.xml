@@ -1,0 +1,112 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Smoke Layout Tests Run" verbose="1" parallel="tests" thread-count="4">
+
+    <test name="Firefox - Iphone 14 Pro Max">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="width" value="430"/>
+        <parameter name="height" value="932"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Firefox - Iphone 12 Pro">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="width" value="390"/>
+        <parameter name="height" value="844"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Firefox - Samsung Galaxy S8+">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="width" value="360"/>
+        <parameter name="height" value="740"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Firefox - Pixel 7">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="width" value="412"/>
+        <parameter name="height" value="915"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Chrome - Iphone 14 Pro Max">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="width" value="430"/>
+        <parameter name="height" value="932"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Chrome - Iphone 12 Pro">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="width" value="390"/>
+        <parameter name="height" value="844"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Chrome - Samsung Galaxy S8+">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="width" value="360"/>
+        <parameter name="height" value="740"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Chrome - Pixel 7">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="width" value="412"/>
+        <parameter name="height" value="915"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Edge - Iphone 14 Pro Max">
+        <parameter name="browser" value="edge"/>
+        <parameter name="width" value="430"/>
+        <parameter name="height" value="932"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Edge - Iphone 12 Pro">
+        <parameter name="browser" value="edge"/>
+        <parameter name="width" value="390"/>
+        <parameter name="height" value="844"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Edge - Samsung Galaxy S8+">
+        <parameter name="browser" value="edge"/>
+        <parameter name="width" value="360"/>
+        <parameter name="height" value="740"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+
+    <test name="Edge - Pixel 7">
+        <parameter name="browser" value="edge"/>
+        <parameter name="width" value="412"/>
+        <parameter name="height" value="915"/>
+        <packages>
+            <package name="com.google.tests"></package>
+        </packages>
+    </test>
+</suite>
